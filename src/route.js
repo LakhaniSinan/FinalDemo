@@ -7,9 +7,10 @@ import UploadBinai from "./component/UploadBinai";
 import UploadZoom from "./component/UploadZoom";
 import Review from "./component/review";
 
+
 const Routes = () => {
   return (
-    <Router>
+    <Router basename="/FinalDemo" >
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/UploadVideo" component={VideoUpload} />
