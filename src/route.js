@@ -10,7 +10,7 @@ import Review from "./component/review";
 
 const Routes = () => {
   return (
-    <Router basename="/FinalDemo" >
+    <Router>
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/UploadVideo" component={VideoUpload} />
