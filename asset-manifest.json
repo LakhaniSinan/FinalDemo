@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61b28c0f.chunk.css",
+    "main.js": "/static/js/main.d6fe429c.chunk.js",
+    "main.js.map": "/static/js/main.d6fe429c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a5e9a04.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a5e9a04.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1ea09588.chunk.js": "/static/js/2.1ea09588.chunk.js",
+    "static/js/2.1ea09588.chunk.js.map": "/static/js/2.1ea09588.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ada57e17713e2ddb440dc39dee634d7a.js": "/precache-manifest.ada57e17713e2ddb440dc39dee634d7a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.61b28c0f.chunk.css.map": "/static/css/main.61b28c0f.chunk.css.map",
+    "static/js/2.1ea09588.chunk.js.LICENSE.txt": "/static/js/2.1ea09588.chunk.js.LICENSE.txt",
+    "static/media/ihorizon.png": "/static/media/ihorizon.d44ee16c.png",
+    "static/media/logo1.png": "/static/media/logo1.9305a295.png",
+    "static/media/logo2.png": "/static/media/logo2.9042f8b7.png",
+    "static/media/logo3.png": "/static/media/logo3.66a2fd04.png",
+    "static/media/logo4.png": "/static/media/logo4.ffcf8cae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a5e9a04.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1ea09588.chunk.js",
+    "static/css/main.61b28c0f.chunk.css",
+    "static/js/main.d6fe429c.chunk.js"
+  ]
+}
